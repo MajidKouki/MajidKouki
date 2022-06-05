@@ -18,8 +18,7 @@
 
 ### Languages, Tools & Systems:
 
-<img src="./img/visualstudiocode.svg" alt="Visual Studio Code" style="width:30px;height:30px;">
-<img src="./img/python.svg" alt="Python" style="width:30px;height:30px;">
+<img src="./img/visualstudiocode.svg" alt="Visual Studio Code" style="width:30px;height:30px;"><img src="./img/python.svg" alt="Python" style="width:30px;height:30px;">
 <img src="./img/html5.svg" alt="HTML5" style="width:30px;height:30px;">
 <img src="./img/css3.svg" alt="CSS3" style="width:30px;height:30px;">
 <img src="./img/javascript.svg" alt="JavaScript" style="width:30px;height:30px;">
