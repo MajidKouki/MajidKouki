@@ -18,16 +18,19 @@
 
 ### Languages, Tools & Systems:
 
-<img src="./img/visualstudiocode.svg" alt="Visual Studio Code" style="width:30px;height:30px;"><img src="./img/python.svg" alt="Python" style="width:30px;height:30px;">
-<img src="./img/html5.svg" alt="HTML5" style="width:30px;height:30px;">
-<img src="./img/css3.svg" alt="CSS3" style="width:30px;height:30px;">
-<img src="./img/javascript.svg" alt="JavaScript" style="width:30px;height:30px;">
-<img src="./img/react.svg" alt="React" style="width:30px;height:30px;">
-<img src="./img/git.svg" alt="Git" style="width:30px;height:30px;">
-<img src="./img/github.svg" alt="GitHub" style="width:30px;height:30px;">
-<img src="./img/macos.svg" alt="MacOS" style="width:30px;height:30px;">
-<img src="./img/linux.svg" alt="Linux" style="width:30px;height:30px;">
-<img src="./img/raspberry_pi.svg" alt="Raspberry Pi" style="width:30px;height:30px;">
+<div style="display: inline-block;">
+  <img src="./img/visualstudiocode.svg" alt="Visual Studio Code" style="width:30px;height:30px;">
+  <img src="./img/python.svg" alt="Python" style="width:30px;height:30px;">
+  <img src="./img/html5.svg" alt="HTML5" style="width:30px;height:30px;">
+  <img src="./img/css3.svg" alt="CSS3" style="width:30px;height:30px;">
+  <img src="./img/javascript.svg" alt="JavaScript" style="width:30px;height:30px;">
+  <img src="./img/react.svg" alt="React" style="width:30px;height:30px;">
+  <img src="./img/git.svg" alt="Git" style="width:30px;height:30px;">
+  <img src="./img/github.svg" alt="GitHub" style="width:30px;height:30px;">
+  <img src="./img/macos.svg" alt="MacOS" style="width:30px;height:30px;">
+  <img src="./img/linux.svg" alt="Linux" style="width:30px;height:30px;">
+  <img src="./img/raspberry_pi.svg" alt="Raspberry Pi" style="width:30px;height:30px;">
+</div>
 
 <br />
 
