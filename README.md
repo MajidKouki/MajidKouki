@@ -1,20 +1,20 @@
 # Hi! I'm Majid
 
-<br />
+
 
 - Interested in Fintech, Blockchain and Quantitative Trading
 - Currently learning Python, SQL, AWS, and more
 - Blockchain is next on the list
 - 2022 Goal: Get started with algorithmic trading and machine learning 🤖
 
-<br />
+
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/majid-kouki"><img src="./img/linkedin.svg" alt="Linkedin" style="width:30px;height:30px;"></a>
 <a href="https://twitter.com/MajidKouki"><img src="./img/twitter.svg" alt="Twitter" style="width:30px;height:30px;"></a>
 
-<br />
+
 
 ### Languages, Tools & Systems:
 
@@ -32,7 +32,7 @@
   <img src="./img/raspberry_pi.svg" alt="Raspberry Pi" style="width:30px;height:30px;">
 </div>
 
-<br />
+
 
 ### Some of my stats:
 
