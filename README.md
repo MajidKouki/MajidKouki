@@ -11,25 +11,30 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/majid-kouki"><img src="./img/linkedin.svg" alt="Linkedin" style="width:30px;height:30px;"></a>
-<a href="https://twitter.com/MajidKouki"><img src="./img/twitter.svg" alt="Twitter" style="width:30px;height:30px;"></a>
+<a href="https://www.linkedin.com/in/majid-kouki"><img src="./img/linkedin-original.svg" alt="Linkedin" style="width:30px;height:30px;"></a>
+<a href="https://twitter.com/MajidKouki"><img src="./img/twitter-original.svg" alt="Twitter" style="width:30px;height:30px;"></a>
 
 
 
 ### Languages, Tools & Systems:
 
 <div style="display: inline-block;">
-  <img src="./img/visualstudiocode.svg" alt="Visual Studio Code" style="width:30px;height:30px;">
-  <img src="./img/python.svg" alt="Python" style="width:30px;height:30px;">
-  <img src="./img/html5.svg" alt="HTML5" style="width:30px;height:30px;">
-  <img src="./img/css3.svg" alt="CSS3" style="width:30px;height:30px;">
-  <img src="./img/javascript.svg" alt="JavaScript" style="width:30px;height:30px;">
-  <img src="./img/react.svg" alt="React" style="width:30px;height:30px;">
-  <img src="./img/git.svg" alt="Git" style="width:30px;height:30px;">
-  <img src="./img/github.svg" alt="GitHub" style="width:30px;height:30px;">
-  <img src="./img/macos.svg" alt="MacOS" style="width:30px;height:30px;">
-  <img src="./img/linux.svg" alt="Linux" style="width:30px;height:30px;">
-  <img src="./img/raspberry_pi.svg" alt="Raspberry Pi" style="width:30px;height:30px;">
+    <img src="./img/vscode-original.svg" alt="Visual Studio Codes" style="width:30px;height:30px;">
+    <img src="./img/jupyter-original.svg" alt="Jupyter" style="width:30px;height:30px;">
+    <img src="./img/anaconda-original.svg" alt="Anaconda" style="width:30px;height:30px;"> 
+    <img src="./img/python-original.svg" alt="Pyth" style="width:30px;height:30px;">
+    <img src="./img/pandas-original.svg" alt="Pandas" style="width:30px;height:30px;">  
+    <img src="./img/numpy-original.svg" alt="NumPy" style="width:30px;height:30px;">  
+    <img src="./img/html5-original.svg" alt="HTML5" style="width:30px;height:30px;">
+    <img src="./img/css3-original.svg" alt="CSS3" style="width:30px;height:30px;">
+    <img src="./img/javascript-original.svg" alt="JavaScript" style="width:30px;height:30px;">    
+    <img src="./img/react-original.svg" alt="React" style="width:30px;height:30px;">        
+    <img src="./img/git-original.svg" alt="Git" style="width:30px;height:30px;">
+    <img src="./img/github-original.svg" alt="GitHub" style="width:30px;height:30px;">
+    <img src="./img/markdown-original.svg" alt="Git" style="width:30px;height:30px;">
+    <img src="./img/macos.svg" alt="MacOS" style="width:30px;height:30px;">
+    <img src="./img/linux-original.svg" alt="Linux" style="width:30px;height:30px;">
+    <img src="./img/raspberrypi-original.svg" alt="Raspberry Pii" style="width:30px;height:30px;">
 </div>
 
 
