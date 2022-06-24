@@ -13,6 +13,7 @@
 
 <a href="https://www.linkedin.com/in/majid-kouki"><img src="./img/linkedin-original.svg" alt="Linkedin" style="width:30px;height:30px;"></a>
 <a href="https://twitter.com/MajidKouki"><img src="./img/twitter-original.svg" alt="Twitter" style="width:30px;height:30px;"></a>
+<a href="mailto:majidkpy@gmail.com"><img src="./img/gmail.svg" alt="Gmail" style="width:30px;height:30px;"></a>
 
 
 
