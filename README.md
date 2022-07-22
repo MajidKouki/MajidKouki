@@ -35,11 +35,11 @@
     <img src="./img/markdown-original.svg" alt="Git" style="width:30px;height:30px;">
     <img src="./img/macos.svg" alt="MacOS" style="width:30px;height:30px;">
     <img src="./img/linux-original.svg" alt="Linux" style="width:30px;height:30px;">
-    <img src="./img/raspberrypi-original.svg" alt="Raspberry Pii" style="width:30px;height:30px;">
+    <img src="./img/raspberrypi-original.svg" alt="Raspberry Pi" style="width:30px;height:30px;">
 </div>
 
 
 
 ### Some of my stats:
 
-[![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidkouki)](https://github.com/anuraghazra/github-readme-stats)
+[![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidkouki&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
