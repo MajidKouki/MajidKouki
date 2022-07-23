@@ -3,9 +3,9 @@
 
 
 - Interested in Fintech, Blockchain and Quantitative Trading
-- Expert in Python, SQL, AWS, and more
-- Blockchain is next on the list
-- 2022 Goal: Get started with algorithmic trading and machine learning 🤖
+- Expert in Python, Pandas, SQL, Machine Learning, and more
+- Blockchain and smart contracts are next on the list
+- 2022 Goals: Create a cryptocurrency and several trading bots 🤖
 
 
 
