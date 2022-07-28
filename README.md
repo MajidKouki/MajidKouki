@@ -26,6 +26,7 @@
     <img src="./imgs/python-original.svg" alt="Pyth" style="width:30px;height:30px;">
     <img src="./imgs/pandas-original.svg" alt="Pandas" style="width:30px;height:30px;">  
     <img src="./imgs/numpy-original.svg" alt="NumPy" style="width:30px;height:30px;">  
+    <img src="./imgs/sqlalchemy-original.svg" alt="SQLAlchemy" style="width:30px;height:30px;"> 
     <img src="./imgs/html5-original.svg" alt="HTML5" style="width:30px;height:30px;">
     <img src="./imgs/css3-original.svg" alt="CSS3" style="width:30px;height:30px;">
     <img src="./imgs/javascript-original.svg" alt="JavaScript" style="width:30px;height:30px;">    
