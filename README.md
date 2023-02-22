@@ -2,10 +2,11 @@
 
 
 
-- Interested in Fintech, Blockchain and Quantitative Trading
-- Expert in Python, Pandas, SQL, Machine Learning, Artificial Intelligence, Smart Contracts, and more
-- Deepening my knowledge of neural networks and financial data analysis
-- 2023 Goals: Create a cryptocurrency and several trading bots 🤖
+* Software developer, AI/ML engineer, IT specialist, and trader
+* Interested in anything fintech and artificial intelligence
+* Expert in Python, Pandas, Tensorflow, SQL, ML/AI, and financial applications
+* Deepening my knowledge of neural networks and their applications in finance
+* 2023 Goals: Create a successful trade bot using neural networks 🤖
 
 
 
