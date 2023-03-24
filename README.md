@@ -17,16 +17,16 @@ I work with Python with a focus on AI and financial software. I also develop mob
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/python.svg" width="36" height="36" alt="Python"/></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./imgs/tools/c.svg" width="36" height="36" alt="C"/></a>
+    <!-- <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./imgs/tools/c.svg" width="36" height="36" alt="C"/></a> -->
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./imgs/tools/cpp.svg" width="36" height="36" alt="C++"/></a>
+    <!-- <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="./imgs/tools/cuda.svg" width="36" height="36" alt="CUDA"/></a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./imgs/tools/javascript.svg" width="36" height="36" alt="JavaScript"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./imgs/tools/html.svg" width="36" height="36" alt="HTML"/></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./imgs/tools/css.svg" width="36" height="36" alt="CSS"/></a>
     <a href="https://soliditylang.org/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/solidity-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/solidity-dark.svg" width="36" height="36">
-        <img alt="Solidity" src="./imgs/tools/solidity-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="Solidity" src="./imgs/tools/solidity-light.svg" width="36" height="36"></picture></a>
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/r.svg" width="36" height="36" alt="R"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/pandas.svg" width="36" height="36" alt="Pandas"/></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/numpy.svg" width="36" height="36" alt="NumPy"/></a>
@@ -38,8 +38,7 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <a href="https://expressjs.com/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/express-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/express-dark.svg" width="36" height="36">
-        <img alt="Express.js" src="./imgs/tools/express-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="Express.js" src="./imgs/tools/express-light.svg" width="36" height="36"></picture></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/git.svg" width="36" height="36" alt="Git"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/mysql.svg" width="36" height="36" alt="MySQL"/></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/postgresql.svg" width="36" height="36" alt="PostgreSQL"/></a>
@@ -50,27 +49,24 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <a href="https://aws.amazon.com/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/aws-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/aws-dark.svg" width="36" height="36">
-        <img alt="Amazon Web Services" src="./imgs/tools/aws-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="Amazon Web Services" src="./imgs/tools/aws-light.svg" width="36" height="36"></picture></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/docker.svg" width="36" height="36" alt="Docker"/></a>
+    <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="./imgs/tools/kubernetes.svg" width="36" height="36" alt="Kubernetes"/></a> -->
     <a href="https://anaconda.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/anaconda.svg" width="36" height="36" alt="Anaconda"/></a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/jupyter.svg" width="36" height="36" alt="Jupyter"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/vscode.svg" width="36" height="36" alt="Visual Studio Code"/></a>
     <a href="https://daringfireball.net/projects/markdown/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/markdown-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/markdown-dark.svg" width="36" height="36">
-        <img alt="Markdown" src="./imgs/tools/markdown-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="Markdown" src="./imgs/tools/markdown-light.svg" width="36" height="36"></picture></a>
     <a href="https://zsh.sourceforge.io/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/zsh-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/zsh-dark.svg" width="36" height="36">
-        <img alt="ZSH" src="./imgs/tools/markdown-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="ZSH" src="./imgs/tools/markdown-light.svg" width="36" height="36"></picture></a>
     <a href="https://www.gnu.org/software/bash/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/bash-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/bash-dark.svg" width="36" height="36">
-        <img alt="Bash" src="./imgs/tools/markdown-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="Bash" src="./imgs/tools/markdown-light.svg" width="36" height="36"></picture></a>
 </p>
 
 ### Operating Systems:
@@ -80,8 +76,7 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <a href="https://www.apple.com/macos/"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/macos-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/macos-dark.svg" width="36" height="36">
-        <img alt="MacOS" src="./imgs/tools/macos-light.svg" width="36" height="36">
-    </picture></a>
+        <img alt="MacOS" src="./imgs/tools/macos-light.svg" width="36" height="36"></picture></a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/debian.svg" width="36" height="36" alt="Debian"/></a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/ubuntu.svg" width="36" height="36" alt="Ubuntu"/></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/archlinux.svg" width="36" height="36" alt="Arch Linux"/></a>
@@ -99,13 +94,11 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <a href="https://www.github.com/majidkouki"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/socials/github-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/socials/github-dark.svg" width="36" height="36">
-        <img src="./imgs/socials/github-light.svg">
-    </picture></a> 
+        <img src="./imgs/socials/github-light.svg"></picture></a> 
     <a href="https://www.dev.to/majidkouki"><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/socials/dev-light.svg" width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/socials/dev-dark.svg" width="36" height="36">
-        <img src="./imgs/socials/dev-light.svg">
-    </picture></a>
+        <img src="./imgs/socials/dev-light.svg"></picture></a>
 </p>
 
 ### 📊 GitHub Stats:
