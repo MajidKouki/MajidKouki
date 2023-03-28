@@ -45,7 +45,10 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <!--  -->
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/tensorflow.svg" width="36" height="36" alt="Tensorflow"/></a>
     <!--  -->
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="./imgs/tools/keras.svg" width="36" height="36" alt="Keras"/></a>
+    <!--  -->
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/pytorch.svg" width="36" height="36" alt="PyTorch"/></a>
+    <!--  -->
     <!--  -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/react.svg" width="36" height="36" alt="React.js"/></a>
     <!--  -->
