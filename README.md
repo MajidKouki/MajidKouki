@@ -49,6 +49,10 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <!--  -->
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/pytorch.svg" width="36" height="36" alt="PyTorch"/></a>
     <!--  -->
+    <!-- <a href="https://opencv.org/"><picture>
+        <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/opencv-light.svg" width="36" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/opencv-dark.svg" width="36" height="36">
+        <img alt="OpenCV" src="./imgs/tools/opencv-light.svg" width="36" height="36"></picture></a> -->
     <!--  -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/react.svg" width="36" height="36" alt="React.js"/></a>
     <!--  -->
