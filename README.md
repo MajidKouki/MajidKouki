@@ -8,7 +8,7 @@ I work with Python with a focus on AI and financial software. I also develop mob
 - 📧 You can reach me at [majidkpy@gmail.com](mailto:majidkpy@gmail.com)
 - 🤖 I'm passionate about anything Artificial Intelligence or Machine Learning
 - 📈 Expert in Python for AI/ML and finance using Pandas, Tensorflow, and more
-- 🌱 I'm currently learning about C++ for ML and brushing up on React
+- 🌱 I'm currently learning about C++ for CUDA and pursuing certification in cloud computing and Tensorflow
 - 📁 I'm currently working on a portfolio website (coming soon) <!-- -  All of my projects are available at [coming](soon) -->
 - 🤝 I'm open to collaborate on anything Python or finance
 - 📚 Fun fact: I have a book addiction
