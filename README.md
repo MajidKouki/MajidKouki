@@ -86,6 +86,8 @@ I work with Python with a focus on AI and financial software. I also develop mob
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/aws-dark.svg" width="36" height="36">
         <img alt="Amazon Web Services" src="./imgs/tools/aws-light.svg" width="36" height="36"></picture></a>
     <!--  -->
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="./imgs/tools/azure.svg" width="36" height="36" alt="Azure"/></a>
+    <!--  -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./imgs/tools/docker.svg" width="36" height="36" alt="Docker"/></a>
     <!--  -->
     <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="./imgs/tools/kubernetes.svg" width="36" height="36" alt="Kubernetes"/></a> -->
