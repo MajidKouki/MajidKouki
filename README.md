@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Majid 👋</h1>
 <h2 align="center">Software Developer, IT Specialist & Options Trader</h2>
+<!-- AI Engineer & Quant Enthusiast -->
 
 I work with Python with a focus on AI and financial software. I also develop mobile apps with React Native and smart contracts on the Ethereum blockchain with Solidity. I'm passionate about learning and the immense potential of AI. When I'm not programming, I enjoy trading, reading, working with hardware, and occasional gaming. Feel free to check out my public projects and stay tuned for more (and a portfolio website). I’m always open to collaboration or contracting so feel free to reach out!
 
@@ -41,7 +42,10 @@ I work with Python with a focus on AI and financial software. I also develop mob
     <!--  -->
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/numpy.svg" width="36" height="36" alt="NumPy"/></a>
     <!--  -->
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="./imgs/tools/scikit-learn.svg" width="36" height="36" alt="Scikit-learn"/></a>
+    <a href="https://scikit-learn.org/stable/"><picture>
+        <source media="(prefers-color-scheme: light)" srcset="./imgs/tools/scikit-learn-light.svg" width="36" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="./imgs/tools/scikit-learn-dark.svg" width="36" height="36">
+        <img alt="Scikit-learn" src="./imgs/tools/scikit-learn-light.svg" width="36" height="36"></picture></a>
     <!--  -->
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="./imgs/tools/tensorflow.svg" width="36" height="36" alt="Tensorflow"/></a>
     <!--  -->
