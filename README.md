@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Majid 👋</h1>
-<h2 align="center">AI Engineer | Python Developer | Options Trader</h2>
+<h2 align="center">Data Scientist | AI/ML Engineer</h2>
 <!-- AI Engineer & Quant Enthusiast -->
 
 I work with Python with a focus on AI and financial software. I also develop mobile apps with React Native and smart contracts on the Ethereum blockchain with Solidity. I'm passionate about learning and the immense potential of AI. When I'm not programming, I enjoy trading, reading, working with hardware, and occasional gaming. Feel free to check out my public projects and stay tuned for more (and a portfolio website). I’m always open to collaboration or contracting so feel free to reach out!
