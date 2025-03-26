@@ -159,14 +159,13 @@ I work with Python with a focus on AI and financial software. I also develop mob
 
 ### Test:
 
-<p align="left">
+<!-- <p align="left">
     <a target="_blank" rel="noreferrer"> <img src="./imgs/Certifications/A_Standard.png” width="36" height="36"/></a>
-    <!--  -->
     <a><picture>
         <source media="(prefers-color-scheme: light)" srcset="./imgs/Certifications/A_Black.png” width="36" height="36">
         <source media="(prefers-color-scheme: dark)" srcset="./imgs/Certifications/A_White.png” width="36" height="36">
         <img src="./imgs/socials/github-light.svg"></picture></a> 
-</p>
+</p> -->
 
 ### 📊 GitHub Stats:
 
